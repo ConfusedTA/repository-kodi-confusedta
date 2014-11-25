@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+<addon provider-name="ConfusedTA" version="1.0.1" name="ConfusedTA's Kodi Add-ons" id="repository.confusedta">
+	<extension name="ConfusedTA's Add-ons" point="xbmc.addon.repository">
+		<info compressed="false">https://github.com/ConfusedTA/repository-kodi-confusedta/addons.xml</info>
+		<checksum>https://github.com/ConfusedTA/repository-kodi-confusedta/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/ConfusedTA/repository-kodi-confusedta/releases</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install add-ons from ConfusedTA's add-on repository</summary>
+		<description>Home of Yamaha YNCA</description>
+		<disclaimer>If it breaks, you get to keep the pieces</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
